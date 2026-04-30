@@ -34,6 +34,6 @@ A robust digital walkie-talkie system utilizing Arduino microcontrollers and the
     │   ├── FSK_vs_GFSK_Code.m
     │   └── PSD_Graph.png
     └── GFSK_Simulation/
-        ├── BER.png
+        ├── BER_GFSK.jpg
         ├── GFSK_Sim_Code.m
-        └── PSD.png
+        └── PSD_GFSK.jpg
